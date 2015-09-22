@@ -1,0 +1,14 @@
+{
+  "name": "sg-route-helper",
+  "version": "0.0.1",
+  "description": "sg-route-helper for node.js",
+  "keywords": [],
+  "author": "hwaranglee <dev@slogup.com>",
+  "repository": { "type": "git", "url": "git://github.com/slogup/sg-route-helper.git" },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "main": "index"
+}
