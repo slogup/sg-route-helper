@@ -1,10 +1,10 @@
 {
   "name": "sg-route-helper",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "sg-route-helper for node.js",
   "keywords": [],
-  "author": "hwaranglee <dev@slogup.com>",
-  "repository": { "type": "git", "url": "git://github.com/slogup/sg-route-helper.git" },
+  "author": "hwaranglee <ceo@slogup.com>",
+  "repository": { "type": "git", "url": "git://github.com/teamslogup/sg-route-helper.git" },
   "dependencies": {
     "app-root-path":"*"
   },
